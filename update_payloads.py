@@ -12,6 +12,9 @@ def get_sha256(filepath):
     return sha256_hash.hexdigest().lower()
 
 def main():
+    if not os.path.exists('payloads'):
+        os.makedirs('payloads')
+
     with open('payloads.json', 'r') as f:
         payloads = json.load(f)
 
@@ -49,7 +52,6 @@ def main():
 
         print(f"New version found: {latest_version}")
         
-        # Find asset
         target_asset = None
         for asset in release_data.get('assets', []):
             if asset['name'].endswith('.elf') or asset['name'].endswith('.zip'):
@@ -62,39 +64,40 @@ def main():
 
         download_url = target_asset['browser_download_url']
         filename = target_asset['name']
+        temp_path = os.path.join('payloads', filename)
         
         print(f"Downloading {filename}...")
-        urllib.request.urlretrieve(download_url, filename)
+        urllib.request.urlretrieve(download_url, temp_path)
         
         checksum = ""
-        # If it's a zip and we need to extract an ELF
-        if filename.endswith('.zip') and 'extract_file' in p:
-            with zipfile.ZipFile(filename, 'r') as zip_ref:
+        final_elf_name = ""
+        
+        if filename.endswith('.zip'):
+            with zipfile.ZipFile(temp_path, 'r') as zip_ref:
                 elf_name = None
                 for name in zip_ref.namelist():
                     if name.endswith('.elf'):
                         elf_name = name
                         break
                 if elf_name:
-                    zip_ref.extract(elf_name, ".")
-                    checksum = get_sha256(elf_name)
-                    os.remove(elf_name)
-                    p['extract_file'] = elf_name.split('/')[-1]
+                    zip_ref.extract(elf_name, 'payloads')
+                    extracted_path = os.path.join('payloads', elf_name)
+                    checksum = get_sha256(extracted_path)
+                    final_elf_name = elf_name.split('/')[-1]
+            os.remove(temp_path)
         else:
-            checksum = get_sha256(filename)
+            checksum = get_sha256(temp_path)
+            final_elf_name = filename
             
-        os.remove(filename)
-        
         if not checksum:
             print("Failed to compute checksum.")
             continue
 
-        # Update JSON
         p['version'] = latest_version
         p['checksum'] = checksum
-        p['url'] = download_url
+        p['url'] = f"https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/{final_elf_name}"
         p['source_direct'] = download_url
-        p['filename'] = filename
+        p['filename'] = final_elf_name
         p['last_update'] = release_data['published_at'].split('T')[0]
         changed = True
 
