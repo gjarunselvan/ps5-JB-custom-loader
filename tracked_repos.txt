@@ -1,0 +1,4 @@
+https://github.com/phantomptr/ps5upload
+https://git.etawen.dev/soniciso/elf-arsenal
+https://github.com/Phoenixx1202/Spectrum-Library
+https://github.com/pegasus-ps5/pegasus-dl
