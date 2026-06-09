@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.11/elf-arsenal.elf",
-    "description": "Working Repair Icons / Force Rescan buttons (were POSTing to no-op GET stubs that did nothing): Repair Icons now reloads the home-screen icons, Force ...",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.12/elf-arsenal.elf",
+    "description": "Baked-in extracted-game mounter: registers folder-method (sce_sys) games on the XMB with icons, no ShadowMountPlus install required \u2014 ports SMP's engi...",
     "last_update": "2026-06-09",
-    "version": "v1.6.11",
-    "checksum": "d30a7c223b2ec7bd32be25f073dfe1b8003ce4d15c809fb2790c16a8f9ca2ba0"
+    "version": "v1.6.12",
+    "checksum": "022ff62a030aee9a119b10e6b5fef78c018aeaa7a6bf78c7702b67879c361c63"
   },
   {
     "name": "Spectrum-Library",
