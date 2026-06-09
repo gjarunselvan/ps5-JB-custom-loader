@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.8/elf-arsenal.elf",
-    "description": "Elf-Arsenal+ release. Voidshell glass UI port with full feature parity (Saves/PSN/PKG Zone/System Tools/Cheats pages), built-in cheat engine, DPI v2-o...",
-    "last_update": "2026-06-08",
-    "version": "v1.6.8",
-    "checksum": "6782d726612c8b5f6dcaece89d7e84a59431be47a299d28b1efe543b54672c09"
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.11/elf-arsenal.elf",
+    "description": "Working Repair Icons / Force Rescan buttons (were POSTing to no-op GET stubs that did nothing): Repair Icons now reloads the home-screen icons, Force ...",
+    "last_update": "2026-06-09",
+    "version": "v1.6.11",
+    "checksum": "d30a7c223b2ec7bd32be25f073dfe1b8003ce4d15c809fb2790c16a8f9ca2ba0"
   },
   {
     "name": "Spectrum-Library",
