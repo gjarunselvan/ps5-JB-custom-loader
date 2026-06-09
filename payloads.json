@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.13/elf-arsenal.elf",
-    "description": "Homebrew Launcher: new \"Homebrew\" tab in the left pane spawns the bundled ps5-payload homebrew launcher (websrv on :8080) on open and embeds it inside...",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.15/elf-arsenal.elf",
+    "description": "Game Build Info - The game info modal now shows a Build Info row read from the title's param.json: required firmware, the SDK it was built with, conte...",
     "last_update": "2026-06-09",
-    "version": "v1.6.13",
-    "checksum": "53d7a0bf12b47817a502e001618f7706a95fa30aa04973865395f282b935867a"
+    "version": "v1.6.15",
+    "checksum": "f17f0ea20ae9e0fca16330b2c042bd41588bb681e4a3685339651cdd384ba5d4"
   },
   {
     "name": "Spectrum-Library",
@@ -43,5 +43,16 @@
     "last_update": "2026-06-05",
     "version": "v1.2.0",
     "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
+  },
+  {
+    "name": "PS5-Game-Compressor",
+    "filename": "game-compressor.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/game-compressor.elf",
+    "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
+    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.5/game-compressor.elf",
+    "description": "## PS5 Game Compressor 0.9.5  First public release of PS5 Game Compressor.  ### Requirements - ShadowMountPlus `1.6test15-fix2` or later. - Kstuff lit...",
+    "last_update": "2026-06-06",
+    "version": "v0.9.5",
+    "checksum": "ccd60f6a4d8608c4d8bc548b2637a8450ecfe0d32c179b18ad83a8aa21eb9c57"
   }
 ]
