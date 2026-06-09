@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.15/elf-arsenal.elf",
-    "description": "Game Build Info - The game info modal now shows a Build Info row read from the title's param.json: required firmware, the SDK it was built with, conte...",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.17/elf-arsenal.elf",
+    "description": "Fixes the home-screen tile auto-install: - It used to skip whenever leftover tile metadata existed, so a console that lost the real tile (empty /user/...",
     "last_update": "2026-06-09",
-    "version": "v1.6.15",
-    "checksum": "f17f0ea20ae9e0fca16330b2c042bd41588bb681e4a3685339651cdd384ba5d4"
+    "version": "v1.6.17",
+    "checksum": "f8856ab3137b90997c2e5a9186d9fee55259d67a2189344eefb11e53574e63a9"
   },
   {
     "name": "Spectrum-Library",
