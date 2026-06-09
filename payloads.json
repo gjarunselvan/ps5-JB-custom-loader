@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.12/elf-arsenal.elf",
-    "description": "Baked-in extracted-game mounter: registers folder-method (sce_sys) games on the XMB with icons, no ShadowMountPlus install required \u2014 ports SMP's engi...",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.13/elf-arsenal.elf",
+    "description": "Homebrew Launcher: new \"Homebrew\" tab in the left pane spawns the bundled ps5-payload homebrew launcher (websrv on :8080) on open and embeds it inside...",
     "last_update": "2026-06-09",
-    "version": "v1.6.12",
-    "checksum": "022ff62a030aee9a119b10e6b5fef78c018aeaa7a6bf78c7702b67879c361c63"
+    "version": "v1.6.13",
+    "checksum": "53d7a0bf12b47817a502e001618f7706a95fa30aa04973865395f282b935867a"
   },
   {
     "name": "Spectrum-Library",
