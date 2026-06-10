@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.17/elf-arsenal.elf",
-    "description": "Fixes the home-screen tile auto-install: - It used to skip whenever leftover tile metadata existed, so a console that lost the real tile (empty /user/...",
-    "last_update": "2026-06-09",
-    "version": "v1.6.17",
-    "checksum": "f8856ab3137b90997c2e5a9186d9fee55259d67a2189344eefb11e53574e63a9"
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.18/elf-arsenal.elf",
+    "description": "## v1.6.18  ### Cheats - **Cheats persist across game restart** \u2014 enabled cheats are automatically re-applied when a game (re)launches. - **SHN/MC4 to...",
+    "last_update": "2026-06-10",
+    "version": "v1.6.18",
+    "checksum": "18d86903f7de649398b1fd501fa0df63f1f2118c67b3fb9ecc71ffa386949b6e"
   },
   {
     "name": "Spectrum-Library",
