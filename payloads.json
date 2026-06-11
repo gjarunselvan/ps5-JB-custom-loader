@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.18/elf-arsenal.elf",
-    "description": "## v1.6.18  ### Cheats - **Cheats persist across game restart** \u2014 enabled cheats are automatically re-applied when a game (re)launches. - **SHN/MC4 to...",
-    "last_update": "2026-06-10",
-    "version": "v1.6.18",
-    "checksum": "18d86903f7de649398b1fd501fa0df63f1f2118c67b3fb9ecc71ffa386949b6e"
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.7/elf-arsenal.elf",
+    "description": "elf-arsenal payload",
+    "last_update": "2026-06-06",
+    "version": "v1.6.7",
+    "checksum": "eb597cc3d88dee1c4a07b9c1124826d3985adbe850bad9334c4283fc224a67ca"
   },
   {
     "name": "Spectrum-Library",
