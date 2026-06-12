@@ -38,11 +38,11 @@
     "filename": "pegasus_dl.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/pegasus_dl.elf",
     "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.2.0/pegasus_dl.elf",
-    "description": "A high-performance segmented downloader payload for PS5 with advanced queueing and merging capabilities.",
-    "last_update": "2026-06-05",
-    "version": "v1.2.0",
-    "checksum": "337b593f75a18c8cbb74bd1d0f238e6ccde0953d3265ddac8b9920d54aadf897"
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.3.0/pegasus_dl.elf",
+    "description": "- Added automatic extraction for supported single-file RAR/RAR5 and 7z package archives. - Added the installed-game Library page with metadata, art, s...",
+    "last_update": "2026-06-12",
+    "version": "v1.3.0",
+    "checksum": "4fb014322f9f1470360d3e3e1357a46b8118876c625b71c928a999fd1e30058e"
   },
   {
     "name": "PS5-Game-Compressor",
