@@ -49,10 +49,10 @@
     "filename": "game-compressor.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/game-compressor.elf",
     "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
-    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.5/game-compressor.elf",
-    "description": "## PS5 Game Compressor 0.9.5  First public release of PS5 Game Compressor.  ### Requirements - ShadowMountPlus `1.6test15-fix2` or later. - Kstuff lit...",
-    "last_update": "2026-06-06",
-    "version": "v0.9.5",
-    "checksum": "ccd60f6a4d8608c4d8bc548b2637a8450ecfe0d32c179b18ad83a8aa21eb9c57"
+    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.6/game-compressor.elf",
+    "description": "Compared against `main` because this repository does not currently have a local or remote `develop` branch.  ### Added - Reworked the web UI with a po...",
+    "last_update": "2026-06-12",
+    "version": "v0.9.6",
+    "checksum": "649b68671034a4ca7d713301bfcf8af252478b4701543d6c8f37dcd875206668"
   }
 ]
