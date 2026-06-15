@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.8/elf-arsenal.elf",
-    "description": "## What's new  ### Web UI - **PS5 browser loads ~50\u00d7 faster** \u2014 JSX + Tailwind precompiled at build time. 547 KB inline HTML \u2192 11 KB shell + separatel...",
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.19/elf-arsenal.elf",
+    "description": "## What's fixed  ### Fan Override (was completely broken) - **Root cause**: `fanThreshold`/`fanTarget` were defined in `App` but never passed as props...",
     "last_update": "2026-06-15",
-    "version": "v1.6.8",
-    "checksum": "1aee4170a39c82622d1d06ecd84a4f7d1c4458dc8b561068c3723da16dffa65d"
+    "version": "v1.6.19",
+    "checksum": "9965d9c69980a073d8c12f1b34d479041a73f0d55397a3abdfd11d8019f0fe08"
   },
   {
     "name": "Spectrum-Library",
@@ -48,10 +48,10 @@
     "filename": "game-compressor.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/game-compressor.elf",
     "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
-    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.6/game-compressor.elf",
-    "description": "Compared against `main` because this repository does not currently have a local or remote `develop` branch.  ### Added - Reworked the web UI with a po...",
-    "last_update": "2026-06-12",
-    "version": "v0.9.6",
-    "checksum": "649b68671034a4ca7d713301bfcf8af252478b4701543d6c8f37dcd875206668"
+    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.7/game-compressor.elf",
+    "description": "# Game Compressor 0.9.7  Game Compressor 0.9.7 is focused on stability, safer storage operations, and better handling of real PS5 setups with USB/exte...",
+    "last_update": "2026-06-15",
+    "version": "v0.9.7",
+    "checksum": "9c8cc07b50933bcbefa5e5aae86eac0fc3e97035c737c9c5c79037f6e2a8d132"
   }
 ]
