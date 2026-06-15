@@ -23,15 +23,14 @@
   },
   {
     "name": "Spectrum-Library",
-    "filename": "Spectrum_Library_1.3.elf",
-    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/Spectrum_Library_1.3.elf",
+    "filename": "SpectrumLibrary_1.4.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.elf",
     "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
-    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/Spectrum_Library_1.3/Spectrum_Library_1.3.zip",
-    "extract_file": "Spectrum_Library_1.3.elf",
-    "description": "Local library dashboard and background download service with multi-format and DLC support.",
-    "last_update": "2026-06-08",
-    "version": "Spectrum_Library_1.3",
-    "checksum": "812658e40e02e0450c52f5442f558392526ad0dbf9d933d03bf975b7b05fd01d"
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/SpectrumLibrary_1.4/SpectrumLibrary_1.4.elf",
+    "description": "## What Changed  - Grouped entries with the same `titleId` into one library card. - Detail view now shows individual variants for games, formats, D...",
+    "last_update": "2026-06-14",
+    "version": "SpectrumLibrary_1.4",
+    "checksum": "de2a7b8c192fc4f2d3c2210123d662a0a2e09998e2000fa064ca969ac72d427d"
   },
   {
     "name": "pegasus-dl",
