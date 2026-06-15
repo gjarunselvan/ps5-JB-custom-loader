@@ -15,11 +15,11 @@
     "filename": "elf-arsenal.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/elf-arsenal.elf",
     "source": "https://git.etawen.dev/soniciso/elf-arsenal/releases",
-    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.7/elf-arsenal.elf",
-    "description": "elf-arsenal payload",
-    "last_update": "2026-06-06",
-    "version": "v1.6.7",
-    "checksum": "eb597cc3d88dee1c4a07b9c1124826d3985adbe850bad9334c4283fc224a67ca"
+    "source_direct": "https://git.etawen.dev/soniciso/elf-arsenal/releases/download/v1.6.8/elf-arsenal.elf",
+    "description": "## What's new  ### Web UI - **PS5 browser loads ~50\u00d7 faster** \u2014 JSX + Tailwind precompiled at build time. 547 KB inline HTML \u2192 11 KB shell + separatel...",
+    "last_update": "2026-06-15",
+    "version": "v1.6.8",
+    "checksum": "1aee4170a39c82622d1d06ecd84a4f7d1c4458dc8b561068c3723da16dffa65d"
   },
   {
     "name": "Spectrum-Library",
@@ -37,11 +37,11 @@
     "filename": "pegasus_dl.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/pegasus_dl.elf",
     "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.3.0/pegasus_dl.elf",
-    "description": "- Added automatic extraction for supported single-file RAR/RAR5 and 7z package archives. - Added the installed-game Library page with metadata, art, s...",
-    "last_update": "2026-06-12",
-    "version": "v1.3.0",
-    "checksum": "4fb014322f9f1470360d3e3e1357a46b8118876c625b71c928a999fd1e30058e"
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.4.0/pegasus_dl.elf",
+    "description": "- Added the File Manager tab for browsing PS5 storage, uploads, downloads, folder archive downloads, rename, copy, move, delete, and folder creation. ...",
+    "last_update": "2026-06-15",
+    "version": "v1.4.0",
+    "checksum": "3e2731fba643b7f303a6a6dc2092edf3bca213cc44d73463c9f74d3887c7bc09"
   },
   {
     "name": "PS5-Game-Compressor",
