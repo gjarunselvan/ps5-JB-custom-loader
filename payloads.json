@@ -48,10 +48,10 @@
     "filename": "game-compressor.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/game-compressor.elf",
     "source": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases",
-    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v0.9.9/game-compressor.elf",
-    "description": "# Game Compressor 0.9.9  Game Compressor 0.9.9 focuses on mounted image recovery/extraction, safer storage handling, and a few operator-facing quality...",
+    "source_direct": "https://github.com/juma-sayeh/PS5-Game-Compressor/releases/download/v1.0.0/game-compressor.elf",
+    "description": "# Game Compressor 1.0.0  Game Compressor 1.0.0 is the APR Emu compatibility release.  Compared against `v0.9.9`.  ## Key Changes  - Built APR Emu inde...",
     "last_update": "2026-06-17",
-    "version": "v0.9.9",
-    "checksum": "b1eaada178c1512fab7efd14d4a396462ae70ad0fe77396b0177e6262d23382f"
+    "version": "v1.0.0",
+    "checksum": "29eb7e0b2d46ff23203597ce93ff463d7c4df65ace48b08ca65be3cb184491b2"
   }
 ]
