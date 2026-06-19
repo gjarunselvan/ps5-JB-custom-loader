@@ -23,25 +23,25 @@
   },
   {
     "name": "Spectrum-Library",
-    "filename": "SpectrumLibrary_1.4.elf",
-    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.elf",
+    "filename": "SpectrumLibrary_1.4.1.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.1.elf",
     "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
-    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/SpectrumLibrary_1.4/SpectrumLibrary_1.4.elf",
-    "description": "## What Changed  - Grouped entries with the same `titleId` into one library card. - Detail view now shows individual variants for games, formats, D...",
-    "last_update": "2026-06-14",
-    "version": "SpectrumLibrary_1.4",
-    "checksum": "de2a7b8c192fc4f2d3c2210123d662a0a2e09998e2000fa064ca969ac72d427d"
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.1/SpectrumLibrary_1.4.1.elf",
+    "description": "<img width=\"1918\" height=\"1078\" alt=\"image\" src=\"https://github.com/user-attachments/assets/80c6ed2d-d938-4f06-a18d-8337342c47b2\" />  # Spectrum Lib...",
+    "last_update": "2026-06-19",
+    "version": "1.4.1",
+    "checksum": "2a0c96c74d0b36a34bd8424ba92a173775ef54a3878f4d05d1772bc4061394b7"
   },
   {
     "name": "pegasus-dl",
     "filename": "pegasus_dl.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/pegasus_dl.elf",
     "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.4.0/pegasus_dl.elf",
-    "description": "- Added the File Manager tab for browsing PS5 storage, uploads, downloads, folder archive downloads, rename, copy, move, delete, and folder creation. ...",
-    "last_update": "2026-06-15",
-    "version": "v1.4.0",
-    "checksum": "3e2731fba643b7f303a6a6dc2092edf3bca213cc44d73463c9f74d3887c7bc09"
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.5.0/pegasus_dl.elf",
+    "description": "- Reworked File Manager into a dual-pane workflow with operation status kept at the top and only current operations shown. - Added File Manager mount ...",
+    "last_update": "2026-06-19",
+    "version": "v1.5.0",
+    "checksum": "d48b96e93a5d47324bd1adc79ae834009c297fdb5759a136552158ef5e2a1ab6"
   },
   {
     "name": "PS5-Game-Compressor",
