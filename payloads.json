@@ -37,11 +37,11 @@
     "filename": "pegasus_dl.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/pegasus_dl.elf",
     "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.5.0/pegasus_dl.elf",
-    "description": "- Reworked File Manager into a dual-pane workflow with operation status kept at the top and only current operations shown. - Added File Manager mount ...",
-    "last_update": "2026-06-19",
-    "version": "v1.5.0",
-    "checksum": "d48b96e93a5d47324bd1adc79ae834009c297fdb5759a136552158ef5e2a1ab6"
+    "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.6.0/pegasus_dl.elf",
+    "description": " - Added Real-Debrid support with a local token setting, token-free status   responses, supported-host badges, multi-file selection, and queueing thro...",
+    "last_update": "2026-06-21",
+    "version": "v1.6.0",
+    "checksum": "29b62ef5004729af92a40caeeb956c6fd2c1a795079317a4e3285599a641a89e"
   },
   {
     "name": "PS5-Game-Compressor",
