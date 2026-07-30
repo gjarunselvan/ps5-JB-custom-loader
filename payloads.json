@@ -53,5 +53,16 @@
     "last_update": "2026-06-20",
     "version": "v1.0.3",
     "checksum": "51b66edf6210c022d57a31ab12bf97f95a3c71ea683df387d9081494f11606b2"
+  },
+  {
+    "name": "CheatRunner",
+    "filename": "CheatRunner.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/CheatRunner.elf",
+    "source": "https://github.com/notmaj0r/CheatRunner/releases",
+    "source_direct": "https://github.com/notmaj0r/CheatRunner/releases/download/v0.17/CheatRunner.elf",
+    "description": "CheatRunner v0.17  See the full changelog here: [Changelog](https://github.com/notmaj0r/CheatRunner/blob/main/CHANGELOG.md)  Check [GUIDE](https:/...",
+    "last_update": "2026-07-30",
+    "version": "v0.17",
+    "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
   }
 ]
