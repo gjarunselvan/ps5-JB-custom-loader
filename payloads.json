@@ -64,5 +64,16 @@
     "last_update": "2026-07-30",
     "version": "v0.17",
     "checksum": "2f296d3f1e69b65439bb5dc362f0f6504f6dc9f245fa16a3683e9d7ec9533773"
+  },
+  {
+    "name": "onionHEN",
+    "filename": "OnionHEN.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/OnionHEN.elf",
+    "source": "https://github.com/aydencharles/onionHEN/releases",
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.10/OnionHEN.elf",
+    "description": "OnionHEN is a homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN. It prepares the system, injects a Toolbox into the home scree...",
+    "last_update": "2026-08-17",
+    "version": "v0.0.10",
+    "checksum": "fd6618fa00f4fc8ba437334aa20577acd79307fea19f6e210477a23d24fa18b6"
   }
 ]
