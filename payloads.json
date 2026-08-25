@@ -23,14 +23,14 @@
   },
   {
     "name": "Spectrum-Library",
-    "filename": "SpectrumLibrary_1.4.2.elf",
-    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.2.elf",
+    "filename": "SpectrumLibrary_1.4.3.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.3.elf",
     "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
-    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.2/SpectrumLibrary_1.4.2.elf",
-    "description": " <img width=\"897\" height=\"503\" alt=\"image\" src=\"https://github.com/user-attachments/assets/a947f708-19e2-46a3-a117-72d4c2ee69f9\" />  - Added `/mnt/...",
-    "last_update": "2026-06-20",
-    "version": "1.4.2",
-    "checksum": "54755ce62d99be610afe364e26de05eaa9e2d92192cda525790a563c6296261f"
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.3/SpectrumLibrary_1.4.3.elf",
+    "description": "<img width=\"1547\" height=\"874\" alt=\"image\" src=\"https://github.com/user-attachments/assets/b7b17bd3-1c14-4939-ba40-fc1789026e44\" />  - Added Polish ...",
+    "last_update": "2026-08-24",
+    "version": "1.4.3",
+    "checksum": "11b261457dbb7fee013028a667699ba3c673e4a8ae376a377efb51d2f6b6b257"
   },
   {
     "name": "pegasus-dl",
