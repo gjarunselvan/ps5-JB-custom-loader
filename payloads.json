@@ -23,14 +23,14 @@
   },
   {
     "name": "Spectrum-Library",
-    "filename": "SpectrumLibrary_1.4.4.elf",
-    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.4.elf",
+    "filename": "SpectrumLibrary_1.4.5.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.5.elf",
     "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
-    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.4/SpectrumLibrary_1.4.4.elf",
-    "description": "Spectrum Library 1.4.4 - Added a lightweight debug log saved at /data/SpectrumLibrary/download.log. - Improved stability for large downloads. - Imp...",
-    "last_update": "2026-09-04",
-    "version": "1.4.4",
-    "checksum": "2005b5e169dc360c52b9033cc02bce4169a9d4a078627c543b9bbcf66607b9d5"
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.5/SpectrumLibrary_1.4.5.elf",
+    "description": "- Last ELF update before the native homebrew is released.",
+    "last_update": "2026-09-11",
+    "version": "1.4.5",
+    "checksum": "cd93973a89263fad0b13b39d77d7fbb401c7c7c641bc036965876c810ebf534e"
   },
   {
     "name": "pegasus-dl",
@@ -70,10 +70,10 @@
     "filename": "OnionHEN.elf",
     "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/OnionHEN.elf",
     "source": "https://github.com/aydencharles/onionHEN/releases",
-    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.12/OnionHEN.elf",
-    "description": "# OnionHEN v0.0.12  OnionHEN is a homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN. It prepares the system, injects a Toolbox...",
-    "last_update": "2026-08-31",
-    "version": "v0.0.12",
-    "checksum": "a5c8dafe2af2681e8014421400c4ade4183a8d8be6dad6080dbd0930fa159e00"
+    "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+    "description": "# OnionHEN v0.0.13  OnionHEN is a homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN. It prepares the system, injects a Toolbox...",
+    "last_update": "2026-09-11",
+    "version": "v0.0.13",
+    "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
   }
 ]
