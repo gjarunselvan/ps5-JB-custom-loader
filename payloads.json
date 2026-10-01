@@ -23,14 +23,14 @@
   },
   {
     "name": "Spectrum-Library",
-    "filename": "SpectrumLibrary_1.4.6.elf",
-    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.6.elf",
+    "filename": "SpectrumLibrary_1.4.8.elf",
+    "url": "https://gjarunselvan.github.io/ps5-JB-custom-loader/payloads/SpectrumLibrary_1.4.8.elf",
     "source": "https://github.com/Phoenixx1202/Spectrum-Library/releases",
-    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.6/SpectrumLibrary_1.4.6.elf",
-    "description": "Spectrum Library v1.4.6  What\u2019s New - Added automatic DPI service detection and startup when Spectrum Library launches. - Improved native FPKG ins...",
-    "last_update": "2026-09-19",
-    "version": "1.4.6",
-    "checksum": "73dd3f3938867ac970207ae8e4093e2d0c5b005bcad1ff9ff2aeb5d34294a161"
+    "source_direct": "https://github.com/Phoenixx1202/Spectrum-Library/releases/download/1.4.8/SpectrumLibrary_1.4.8.elf",
+    "description": "**Spectrum Library 1.4.8**  **What\u2019s New**  - New layout - Bug fixes - Added internal DPI support for FW 13.60 - Improved download speed  <im...",
+    "last_update": "2026-10-01",
+    "version": "1.4.8",
+    "checksum": "5d1372d48f76167e3f9e24b335cf571ea6e4b3960e6b7202d2802b0f78c3a519"
   },
   {
     "name": "pegasus-dl",
